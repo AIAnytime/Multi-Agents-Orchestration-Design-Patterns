@@ -55,8 +55,8 @@ An interactive playground to explore and experiment with **5 different multi-age
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/multi-agent-playground.git
-   cd multi-agent-playground
+   git clone https://github.com/AIAnytime/Multi-Agents-Orchestration-Design-Patterns
+   cd Multi-Agents-Orchestration-Design-Patterns
    ```
 
 2. **Install uv (if not already installed):**
