@@ -9,7 +9,7 @@ An interactive playground to explore and experiment with **5 different multi-age
 
 > **Perfect for**: AI engineers, developers learning multi-agent systems, and anyone interested in agent coordination patterns
 
-![Demo Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Multi-Agent+Orchestration+Playground)
+![Demo Screenshot]("Multi-Agent-Orchestration-Playground-09-02-2025_08_25_PM.png")
 
 ## Features
 
