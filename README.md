@@ -306,7 +306,7 @@ If you use this project in your research, please cite:
 @software{multi_agent_orchestration_playground,
   title={Multi-Agent Orchestration Playground},
   author={AI Anytime},
-  year={2024},
+  year={2025},
   url={https://github.com/AIAnytime/Multi-Agents-Orchestration-Design-Patterns}
 }
 ```
