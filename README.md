@@ -305,9 +305,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{multi_agent_orchestration_playground,
   title={Multi-Agent Orchestration Playground},
-  author={Your Name},
+  author={AI Anytime},
   year={2024},
-  url={https://github.com/yourusername/multi-agent-playground}
+  url={https://github.com/AIAnytime/Multi-Agents-Orchestration-Design-Patterns}
 }
 ```
 
