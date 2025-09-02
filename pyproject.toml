@@ -1,0 +1,13 @@
+[project]
+name = "multi-agent-playground"
+version = "0.1.0"
+description = "Multi-Agent Orchestration Playground - Explore 5 orchestration patterns for AI agents"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.28.0",
+    "openai>=1.0.0",
+    "typing-extensions",
+    "pandas>=2.0.0",
+    "plotly>=5.0.0",
+]
