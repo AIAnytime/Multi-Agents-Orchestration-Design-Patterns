@@ -261,44 +261,6 @@ Each pattern implements:
 - Provide meaningful error messages to users
 - Log errors for debugging and monitoring
 
-## Contributing
-
-We welcome contributions! Here's how to get started:
-
-### Development Setup
-
-1. **Fork the repository** on GitHub
-2. **Clone your fork:**
-   ```bash
-   git clone https://github.com/yourusername/multi-agent-playground.git
-   cd multi-agent-playground
-   ```
-3. **Create a feature branch:**
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-4. **Install dependencies:**
-   ```bash
-   uv sync
-   ```
-5. **Make your changes and test thoroughly**
-6. **Submit a pull request** with detailed description
-
-### Code Style
-
-- Follow Python PEP 8 guidelines
-- Use type hints for better code clarity
-- Add docstrings for all classes and methods
-- Include unit tests for new functionality
-
-### Ways to Contribute
-
-- **Bug Reports**: Found a bug? Open an issue!
-- **Feature Requests**: Have an idea? We'd love to hear it!
-- **Documentation**: Help improve our docs
-- **Code**: Add new patterns or improve existing ones
-- **UI/UX**: Enhance the Streamlit interface
-
 ## License
 
 This project is open source and available under the MIT License.
